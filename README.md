@@ -16,15 +16,3 @@ Proyek ini adalah website sederhana untuk toko roti (bakery) berbasis **HTML dan
 - **Google Fonts** (`Gabarito`, `Open Sans`)
 - **Font Awesome** (opsional, untuk ikon di footer)
 
-## 📁 Struktur Folder
-📦 cellabake
-
-├── index.html
-
-├── style.css
-├── README.md
-└── img
-    ├── cakebg.jpg
-    ├── donuts.jpg
-    ├── millecrepes.jpg
-    └── dessertbox.jpg
