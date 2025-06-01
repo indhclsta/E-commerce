@@ -18,6 +18,7 @@ Proyek ini adalah website sederhana untuk toko roti (bakery) berbasis **HTML dan
 
 ## 📁 Struktur Folder
 📦 cellabake
+
 ├── index.html
 
 ├── style.css
@@ -25,7 +26,11 @@ Proyek ini adalah website sederhana untuk toko roti (bakery) berbasis **HTML dan
 ├── README.md
 
 └── img
+
     ├── cakebg.jpg
+    
     ├── donuts.jpg
+    
     ├── millecrepes.jpg
+    
     └── dessertbox.jpg
