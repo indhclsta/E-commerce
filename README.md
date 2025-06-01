@@ -20,17 +20,10 @@ Proyek ini adalah website sederhana untuk toko roti (bakery) berbasis **HTML dan
 📦 cellabake
 
 ├── index.html
-
 ├── style.css
-
 ├── README.md
-
 └── img
-
     ├── cakebg.jpg
-    
     ├── donuts.jpg
-    
     ├── millecrepes.jpg
-    
     └── dessertbox.jpg
